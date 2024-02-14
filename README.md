@@ -31,3 +31,14 @@ https://stackoverflow.com/questions/22028064/matplotlib-boxplot-without-outliers
 https://stackoverflow.com/questions/70937689/plotting-multiple-line-graphs-in-matplotlib
 https://www.pauldesalvo.com/convert-y-axis-labels-to-a-percentage-in-python-matplotlib/
 https://stackoverflow.com/questions/45239261/savefig-text-chopped-off
+https://stackoverflow.com/questions/26294360/pyplot-using-percentage-on-x-axis
+https://matplotlib.org/stable/gallery/statistics/boxplot_color.html
+https://matplotlib.org/3.1.0/gallery/color/named_colors.html
+https://stackoverflow.com/questions/43136137/drop-a-specific-row-in-pandas
+https://www.tutorialspoint.com/how-to-add-a-legend-to-a-matplotlib-pie-chart
+https://www.statology.org/matplotlib-legend-position/#:~:text=To%20change%20the%20position%20of%20a%20legend%20in%20Matplotlib%2C%20you,legend()%20function.&text=The%20default%20location%20is%20%E2%80%9Cbest,avoids%20covering%20any%20data%20points.
+https://www.pythoncharts.com/matplotlib/pie-chart-matplotlib/
+https://www.geeksforgeeks.org/how-to-add-one-row-in-an-existing-pandas-dataframe/#
+https://stackoverflow.com/questions/14661701/how-to-drop-a-list-of-rows-from-pandas-dataframe
+https://stackoverflow.com/questions/31357611/format-y-axis-as-percent
+https://stackoverflow.com/questions/43136137/drop-a-specific-row-in-pandas
