@@ -1,0 +1,1203 @@
+,District name,OutcomeRatePct
+0,Barkhamsted School District,72.852065
+1,Berlin School District,77.490529
+2,Stamford Charter School for Excellence District,76.175198
+3,Capital Preparatory Harbor School District,68.441429
+4,Unified School District #1,14.306113
+5,Suffield School District,75.38026
+6,New Hartford School District,70.295879
+7,Watertown School District,72.354022
+8,Norfolk School District,47.649363
+9,North Branford School District,77.838012
+10,Norwich School District,50.742408
+11,Griswold School District,71.294458
+12,Groton School District,67.857593
+13,Regional School District 19,74.785591
+14,Goodwin University Educational Services (GUES),60.236447
+15,Capitol Region Education Council,63.991626
+16,Bethany School District,82.360334
+17,Bloomfield School District,66.706637
+18,Thomaston School District,76.060529
+19,Thompson School District,64.420739
+20,Connecticut Technical Education and Career System,61.002631
+21,Voluntown School District,68.605309
+22,Wallingford School District,68.131278
+23,Newington School District,75.028119
+24,Torrington School District,66.111246
+25,Bethel School District,78.345453
+26,Unified School District #2,33.6792
+27,Tolland School District,80.32932
+28,New London School District,57.13963
+29,North Canaan School District,73.562339
+30,North Haven School District,77.77193
+31,Waterbury School District,59.172273
+32,North Stonington School District,73.344798
+33,Bolton School District,75.483374
+34,Bozrah School District,79.767976
+35,Branford School District,73.919613
+36,Trumbull School District,85.172441
+37,Westbrook School District,81.512506
+38,West Hartford School District,74.209612
+39,Norwalk School District,69.402917
+40,Old Saybrook School District,77.400081
+41,Guilford School District,82.410197
+42,Hamden School District,66.150972
+43,Hartland School District,86.424197
+44,Hebron School District,77.606511
+45,Norwich Free Academy District,61.740711
+46,The Gilbert School District,61.080922
+47,The Woodstock Academy District,72.634924
+48,Union School District,62.945381
+49,Vernon School District,72.443447
+50,Waterford School District,73.232773
+51,West Haven School District,66.817166
+52,Wethersfield School District,75.590589
+53,Willington School District,67.045459
+54,Wilton School District,85.099288
+55,Orange School District,75.845325
+56,Oxford School District,74.528559
+57,Plainfield School District,68.550802
+58,Plymouth School District,68.153037
+59,Pomfret School District,73.118631
+60,Portland School District,74.379678
+61,Hampton School District,58.994106
+62,Hartford School District,57.156462
+63,Kent School District,74.461247
+64,Killingly School District,64.077963
+65,Lebanon School District,72.59368
+66,Bridgeport School District,56.669873
+67,Brookfield School District,80.293692
+68,Ledyard School District,70.152162
+69,Brooklyn School District,62.751617
+70,Canaan School District,68.940921
+71,Coventry School District,78.894501
+72,Weston School District,85.748934
+73,Winchester School District,57.42327
+74,Windsor School District,67.53257
+75,Plainville School District,75.54829
+76,Regional School District 01,67.842681
+77,Regional School District 04,66.943666
+78,Preston School District,73.767644
+79,Putnam School District,64.814891
+80,Lisbon School District,73.867475
+81,Litchfield School District,82.50768
+82,Canterbury School District,76.421478
+83,Canton School District,74.652177
+84,Cromwell School District,74.751843
+85,Danbury School District,66.536469
+86,Westport School District,80.712904
+87,Windham School District,60.715624
+88,Woodbridge School District,82.155952
+89,Woodstock School District,73.407811
+90,Darien School District,85.496015
+91,Madison School District,86.961845
+92,Chaplin School District,69.333962
+93,Cheshire School District,82.807184
+94,East Haddam School District,75.981104
+95,Manchester School District,60.62605
+96,East Hampton School District,75.697176
+97,Windsor Locks School District,69.365742
+98,Wolcott School District,73.704663
+99,East Hartford School District,66.408666
+100,Regional School District 05,81.146849
+101,Regional School District 06,75.328489
+102,Bristol School District,70.279494
+103,Regional School District 07,78.515236
+104,Redding School District,74.148364
+105,Ridgefield School District,82.652976
+106,Chester School District,70.528581
+107,Clinton School District,75.222521
+108,Sprague School District,51.554551
+109,Stafford School District,72.554628
+110,Mansfield School District,68.654873
+111,Colchester School District,76.943622
+112,Deep River School District,65.993241
+113,Derby School District,61.626236
+114,East Haven School District,66.395297
+115,Enfield School District,67.651173
+116,Regional School District 08,70.109495
+117,Regional School District 09,85.64613
+118,Regional School District 10,80.399315
+119,Rocky Hill School District,80.184192
+120,Salem School District,62.23801
+121,Salisbury School District,72.306982
+122,Scotland School District,62.921897
+123,Seymour School District,75.234951
+124,Stamford School District,64.665238
+125,Marlborough School District,74.682537
+126,Meriden School District,66.368946
+127,Glastonbury School District,81.204765
+128,Colebrook School District,83.512194
+129,Columbia School District,66.522369
+130,Cornwall School District,76.973217
+131,Montville School District,72.353878
+132,Middletown School District,64.907008
+133,Naugatuck School District,64.702636
+134,Eastford School District,77.475707
+135,East Granby School District,77.81976
+136,New Haven School District,57.570284
+137,East Lyme School District,80.750966
+138,Easton School District,79.02414
+139,Essex School District,71.775111
+140,Fairfield School District,79.261991
+141,Regional School District 11,63.951873
+142,Regional School District 12,77.304731
+143,Regional School District 13,78.922975
+144,Regional School District 14,79.658873
+145,Regional School District 15,76.828922
+146,Sterling School District,55.533583
+147,Stonington School District,77.773755
+148,New Britain School District,56.010906
+149,East Windsor School District,65.15891
+150,Ellington School District,80.044525
+151,Newtown School District,78.098384
+152,Farmington School District,84.487372
+153,Granby School District,81.62055
+154,Greenwich School District,82.469784
+155,Regional School District 16,80.680787
+156,Regional School District 17,80.966358
+157,Regional School District 18,81.692264
+158,Stratford School District,65.946966
+159,Elm City Montessori School District,62.757269
+160,Great Oaks Charter School District,54.45238
+161,Booker T. Washington Academy District,59.830702
+162,Milford School District,73.646007
+163,Monroe School District,80.47773
+164,New Fairfield School District,76.637885
+165,Brass City Charter School District,57.453132
+166,New Canaan School District,86.901768
+167,New Milford School District,67.089919
+168,Franklin School District,72.510077
+169,Andover School District,71.182626
+170,Ansonia School District,62.533634
+171,Ashford School District,62.829912
+172,Avon School District,78.951162
+173,Sharon School District,71.704705
+174,Shelton School District,73.645025
+175,Sherman School District,67.419093
+176,Simsbury School District,80.398385
+177,Somers School District,79.702728
+178,Southington School District,73.241277
+179,South Windsor School District,80.502875
+180,EdAdvance,37.488431
+181,Cooperative Educational Services,49.957199
+182,Area Cooperative Educational Services,41.937752
+183,Learn,67.7631
+184,Eastern Connecticut Regional Educational Service Center (EASTCONN),57.683041
+185,Jumoke Academy District,50.320809
+186,Odyssey Community School District,72.696562
+187,Integrated Day Charter School District,67.67302
+188,Interdistrict School for Arts and Comm District,65.516825
+189,Common Ground High School District,58.735848
+190,The Bridge Academy District,63.35492
+191,Side By Side Charter School District,72.43936
+192,Explorations District,54.532424
+193,Amistad Academy District,65.402697
+194,New Beginnings Inc Family Academy District,48.413033
+195,Park City Prep Charter School District,71.017597
+196,Achievement First Bridgeport Academy District,66.776137
+197,Highville Charter School District,47.776621
+198,Achievement First Hartford Academy District,59.398962
+199,Elm City College Preparatory School District,63.208996
+200,Andover School District,70.82785
+201,Ansonia School District,65.365089
+202,Ansonia School District,49.947364
+203,Ansonia School District,63.521644
+204,Ansonia School District,57.097221
+205,Ashford School District,63.086735
+206,Avon School District,86.825167
+207,Avon School District,68.486934
+208,Avon School District,67.323477
+209,Avon School District,74.426939
+210,Avon School District,69.51229
+211,Barkhamsted School District,74.426713
+212,Berlin School District,76.36125
+213,Berlin School District,67.360698
+214,Berlin School District,72.584194
+215,Berlin School District,77.966986
+216,Berlin School District,78.490906
+217,Bethany School District,82.360334
+218,Bethel School District,82.46509
+219,Bethel School District,77.267964
+220,Bethel School District,68.909087
+221,Bethel School District,87.781343
+222,Bethel School District,74.547528
+223,Bloomfield School District,68.527852
+224,Bloomfield School District,60.624358
+225,Bloomfield School District,55.75687
+226,Bloomfield School District,48.492614
+227,Bloomfield School District,42.068447
+228,Bloomfield School District,65.359071
+229,Bolton School District,69.328613
+230,Bolton School District,84.714088
+231,Bozrah School District,80.777086
+232,Branford School District,73.005595
+233,Branford School District,67.272385
+234,Branford School District,78.472743
+235,Branford School District,73.553415
+236,Branford School District,71.28575
+237,Bridgeport School District,65.371269
+238,Bridgeport School District,48.771883
+239,Bridgeport School District,44.855388
+240,Bridgeport School District,63.095398
+241,Bridgeport School District,61.563913
+242,Bridgeport School District,61.876316
+243,Bridgeport School District,53.390308
+244,Bridgeport School District,51.807042
+245,Bridgeport School District,48.405887
+246,Bridgeport School District,59.355047
+247,Bridgeport School District,46.106297
+248,Bridgeport School District,57.779276
+249,Bridgeport School District,45.668258
+250,Bridgeport School District,48.418724
+251,Bridgeport School District,46.229054
+252,Bridgeport School District,54.019365
+253,Bridgeport School District,43.06374
+254,Bridgeport School District,61.167412
+255,Bridgeport School District,59.980678
+256,Bridgeport School District,62.909545
+257,Bridgeport School District,64.334222
+258,Bridgeport School District,46.706779
+259,Bridgeport School District,56.301507
+260,Bridgeport School District,60.716869
+261,Bridgeport School District,41.584804
+262,Bridgeport School District,49.188101
+263,Bridgeport School District,70.218272
+264,Bridgeport School District,65.557561
+265,Bridgeport School District,39.963419
+266,Bridgeport School District,49.80022
+267,Bridgeport School District,50.86953
+268,Bridgeport School District,53.09012
+269,Bridgeport School District,49.280496
+270,Bridgeport School District,47.300709
+271,Bridgeport School District,40.675983
+272,Bristol School District,60.970192
+273,Bristol School District,66.726925
+274,Bristol School District,67.020912
+275,Bristol School District,61.626625
+276,Bristol School District,62.149769
+277,Bristol School District,77.213085
+278,Bristol School District,70.414396
+279,Bristol School District,86.113215
+280,Bristol School District,75.847566
+281,Bristol School District,66.615145
+282,Bristol School District,75.000839
+283,Bristol School District,69.769206
+284,Bristol School District,58.366147
+285,Brookfield School District,76.573465
+286,Brookfield School District,48.499299
+287,Brookfield School District,73.979619
+288,Brookfield School District,75.993526
+289,Brooklyn School District,62.585473
+290,Brooklyn School District,68.194809
+291,Canaan School District,68.940921
+292,Canterbury School District,76.011193
+293,Canterbury School District,77.140268
+294,Canton School District,81.646673
+295,Canton School District,66.340142
+296,Canton School District,63.197453
+297,Canton School District,71.318653
+298,Chaplin School District,69.333962
+299,Cheshire School District,82.157899
+300,Cheshire School District,83.43357
+301,Cheshire School District,8.571429
+302,Cheshire School District,70.5399
+303,Cheshire School District,75.640243
+304,Cheshire School District,84.247713
+305,Cheshire School District,81.140313
+306,Chester School District,70.528581
+307,Clinton School District,67.718576
+308,Clinton School District,69.120607
+309,Clinton School District,75.540958
+310,Colchester School District,74.133778
+311,Colchester School District,58.682779
+312,Colchester School District,76.593774
+313,Colchester School District,72.490673
+314,Colebrook School District,83.512194
+315,Columbia School District,66.816588
+316,Cornwall School District,76.973217
+317,Coventry School District,67.011339
+318,Coventry School District,31.746032
+319,Coventry School District,43.082318
+320,Coventry School District,80.517968
+321,Coventry School District,83.777847
+322,Cromwell School District,75.701858
+323,Cromwell School District,67.348897
+324,Cromwell School District,65.291694
+325,Cromwell School District,64.339641
+326,Danbury School District,54.772601
+327,Danbury School District,62.821987
+328,Danbury School District,63.1412
+329,Danbury School District,73.209775
+330,Danbury School District,64.665431
+331,Danbury School District,65.670653
+332,Danbury School District,66.258786
+333,Danbury School District,70.372518
+334,Danbury School District,67.541732
+335,Danbury School District,65.755993
+336,Danbury School District,58.739015
+337,Danbury School District,54.546376
+338,Danbury School District,66.622657
+339,Danbury School District,71.812375
+340,Danbury School District,63.513966
+341,Danbury School District,69.6485
+342,Danbury School District,71.667748
+343,Darien School District,91.563411
+344,Darien School District,84.601827
+345,Darien School District,84.200715
+346,Darien School District,77.735873
+347,Darien School District,78.12962
+348,Darien School District,88.834082
+349,Darien School District,84.83626
+350,Deep River School District,65.993241
+351,Derby School District,61.2184
+352,Derby School District,59.28066
+353,Derby School District,54.571706
+354,Derby School District,49.832159
+355,Eastford School District,77.805605
+356,East Granby School District,44.552846
+357,East Granby School District,82.132321
+358,East Granby School District,65.55632
+359,East Granby School District,83.599183
+360,East Haddam School District,78.392045
+361,East Haddam School District,77.151395
+362,East Haddam School District,68.604917
+363,East Hampton School District,73.930914
+364,East Hampton School District,76.521416
+365,East Hampton School District,61.260674
+366,East Hampton School District,81.309104
+367,East Hartford School District,60.959752
+368,East Hartford School District,88.960538
+369,East Hartford School District,61.64137
+370,East Hartford School District,67.134071
+371,East Hartford School District,75.715417
+372,East Hartford School District,65.421932
+373,East Hartford School District,51.128849
+374,East Hartford School District,66.595637
+375,East Hartford School District,60.930284
+376,East Hartford School District,71.048405
+377,East Hartford School District,57.456234
+378,East Hartford School District,74.555067
+379,East Haven School District,61.756958
+380,East Haven School District,54.391981
+381,East Haven School District,73.76713
+382,East Haven School District,64.143413
+383,East Haven School District,70.716177
+384,East Haven School District,55.937935
+385,East Haven School District,64.100658
+386,East Lyme School District,87.089592
+387,East Lyme School District,67.893209
+388,East Lyme School District,77.976342
+389,East Lyme School District,79.616609
+390,East Lyme School District,93.409155
+391,Easton School District,76.588693
+392,Easton School District,79.620862
+393,East Windsor School District,67.514134
+394,East Windsor School District,60.384202
+395,East Windsor School District,58.903928
+396,Ellington School District,76.729025
+397,Ellington School District,68.548628
+398,Ellington School District,77.380497
+399,Ellington School District,67.423858
+400,Ellington School District,81.046928
+401,Enfield School District,70.844282
+402,Enfield School District,75.126768
+403,Enfield School District,71.144422
+404,Enfield School District,55.271248
+405,Enfield School District,66.805327
+406,Enfield School District,42.488746
+407,Enfield School District,51.361493
+408,Enfield School District,67.51042
+409,Essex School District,72.01009
+410,Fairfield School District,76.435595
+411,Fairfield School District,83.818963
+412,Fairfield School District,83.435405
+413,Fairfield School District,80.28042
+414,Fairfield School District,67.809447
+415,Fairfield School District,80.158163
+416,Fairfield School District,73.712033
+417,Fairfield School District,74.951859
+418,Fairfield School District,80.483129
+419,Fairfield School District,76.469858
+420,Fairfield School District,81.573419
+421,Fairfield School District,89.392703
+422,Fairfield School District,74.633061
+423,Fairfield School District,78.103006
+424,Fairfield School District,81.289222
+425,Fairfield School District,67.827364
+426,Farmington School District,81.541326
+427,Farmington School District,85.294577
+428,Farmington School District,74.506522
+429,Farmington School District,80.568108
+430,Farmington School District,83.291022
+431,Farmington School District,80.74182
+432,Farmington School District,80.562852
+433,Franklin School District,73.551773
+434,Glastonbury School District,83.849361
+435,Glastonbury School District,77.783407
+436,Glastonbury School District,83.060264
+437,Glastonbury School District,86.550912
+438,Glastonbury School District,75.800737
+439,Glastonbury School District,77.254308
+440,Glastonbury School District,76.947968
+441,Glastonbury School District,68.282729
+442,Granby School District,84.624555
+443,Granby School District,68.03829
+444,Granby School District,64.444444
+445,Granby School District,80.596541
+446,Greenwich School District,67.081003
+447,Greenwich School District,80.91331
+448,Greenwich School District,80.823176
+449,Greenwich School District,79.633583
+450,Greenwich School District,84.600009
+451,Greenwich School District,71.484801
+452,Greenwich School District,83.48425
+453,Greenwich School District,68.263747
+454,Greenwich School District,74.394172
+455,Greenwich School District,88.824433
+456,Greenwich School District,82.867422
+457,Greenwich School District,79.807114
+458,Greenwich School District,90.446802
+459,Greenwich School District,87.605851
+460,Greenwich School District,68.369591
+461,Griswold School District,0.0
+462,Griswold School District,61.232921
+463,Griswold School District,68.758383
+464,Griswold School District,66.16301
+465,Groton School District,66.758244
+466,Groton School District,75.110553
+467,Groton School District,52.311036
+468,Groton School District,61.990114
+469,Groton School District,83.272395
+470,Groton School District,67.246028
+471,Groton School District,70.636423
+472,Guilford School District,73.083659
+473,Guilford School District,81.729601
+474,Guilford School District,80.848031
+475,Guilford School District,75.913578
+476,Guilford School District,82.17688
+477,Guilford School District,79.515595
+478,Guilford School District,83.049674
+479,Hamden School District,68.103468
+480,Hamden School District,59.05078
+481,Hamden School District,59.341335
+482,Hamden School District,63.548796
+483,Hamden School District,49.480461
+484,Hamden School District,62.390134
+485,Hamden School District,70.224594
+486,Hamden School District,63.457128
+487,Hamden School District,74.589509
+488,Hamden School District,71.467566
+489,Hampton School District,61.052525
+490,Hartford School District,63.48025
+491,Hartford School District,54.413754
+492,Hartford School District,59.633484
+493,Hartford School District,56.412647
+494,Hartford School District,46.714853
+495,Hartford School District,45.672747
+496,Hartford School District,40.283378
+497,Hartford School District,56.549128
+498,Hartford School District,60.352454
+499,Hartford School District,47.209554
+500,Hartford School District,52.406544
+501,Hartford School District,44.572075
+502,Hartford School District,47.734824
+503,Hartford School District,65.639468
+504,Hartford School District,63.584248
+505,Hartford School District,45.172867
+506,Hartford School District,47.625309
+507,Hartford School District,52.585585
+508,Hartford School District,63.710478
+509,Hartford School District,47.486473
+510,Hartford School District,47.133481
+511,Hartford School District,42.100246
+512,Hartford School District,45.029932
+513,Hartford School District,56.655227
+514,Hartford School District,66.76745
+515,Hartford School District,59.366716
+516,Hartford School District,56.890645
+517,Hartford School District,59.123077
+518,Hartford School District,41.964684
+519,Hartford School District,73.057486
+520,Hartford School District,47.517918
+521,Hartford School District,60.674273
+522,Hartford School District,59.609308
+523,Hartford School District,55.06052
+524,Hartford School District,78.957752
+525,Hartford School District,47.078538
+526,Hartford School District,57.545681
+527,Hartford School District,50.99231
+528,Hartford School District,54.056761
+529,Hartland School District,86.424197
+530,Hebron School District,77.078853
+531,Hebron School District,77.916789
+532,Kent School District,74.461247
+533,Killingly School District,9.382716
+534,Killingly School District,70.483304
+535,Killingly School District,56.080392
+536,Killingly School District,55.454984
+537,Lebanon School District,66.883469
+538,Lebanon School District,64.220323
+539,Lebanon School District,72.525297
+540,Ledyard School District,86.848882
+541,Ledyard School District,73.092959
+542,Ledyard School District,75.983145
+543,Ledyard School District,72.761258
+544,Ledyard School District,53.822169
+545,Lisbon School District,73.92675
+546,Litchfield School District,81.723645
+547,Litchfield School District,85.312001
+548,Litchfield School District,77.580878
+549,Litchfield School District,75.64944
+550,Madison School District,88.430297
+551,Madison School District,86.88352
+552,Madison School District,94.666309
+553,Madison School District,95.263552
+554,Madison School District,81.507654
+555,Manchester School District,62.634631
+556,Manchester School District,73.218038
+557,Manchester School District,56.337679
+558,Manchester School District,69.897937
+559,Manchester School District,42.163346
+560,Manchester School District,65.377269
+561,Manchester School District,61.307272
+562,Manchester School District,47.88011
+563,Manchester School District,51.308829
+564,Manchester School District,66.207894
+565,Mansfield School District,70.695643
+566,Mansfield School District,8.792271
+567,Mansfield School District,69.186578
+568,Marlborough School District,74.682537
+569,Meriden School District,74.334552
+570,Meriden School District,72.154474
+571,Meriden School District,62.077509
+572,Meriden School District,63.496854
+573,Meriden School District,72.145341
+574,Meriden School District,78.91001
+575,Meriden School District,71.610945
+576,Meriden School District,55.014378
+577,Meriden School District,75.672981
+578,Meriden School District,60.140927
+579,Meriden School District,68.473674
+580,Meriden School District,73.828815
+581,Meriden School District,53.141852
+582,Middletown School District,49.962017
+583,Middletown School District,58.360409
+584,Middletown School District,54.498275
+585,Middletown School District,63.265148
+586,Middletown School District,65.360525
+587,Middletown School District,65.766393
+588,Middletown School District,76.67866
+589,Middletown School District,62.603683
+590,Middletown School District,57.491546
+591,Middletown School District,70.784445
+592,Milford School District,69.10501
+593,Milford School District,66.463168
+594,Milford School District,72.265564
+595,Milford School District,64.412617
+596,Milford School District,72.554988
+597,Milford School District,75.112729
+598,Milford School District,61.249598
+599,Milford School District,72.419134
+600,Milford School District,71.298368
+601,Milford School District,68.707959
+602,Milford School District,67.746363
+603,Milford School District,76.487665
+604,Milford School District,56.58354
+605,Monroe School District,78.179577
+606,Monroe School District,70.161994
+607,Monroe School District,79.955559
+608,Monroe School District,75.171186
+609,Monroe School District,82.35155
+610,Montville School District,75.107693
+611,Montville School District,62.375761
+612,Montville School District,68.572102
+613,Montville School District,76.279614
+614,Montville School District,79.516748
+615,Naugatuck School District,68.408103
+616,Naugatuck School District,52.230964
+617,Naugatuck School District,62.512523
+618,Naugatuck School District,52.331818
+619,Naugatuck School District,63.910563
+620,Naugatuck School District,69.80656
+621,Naugatuck School District,60.443736
+622,Naugatuck School District,64.631287
+623,Naugatuck School District,72.247495
+624,New Britain School District,48.026299
+625,New Britain School District,50.080893
+626,New Britain School District,60.481148
+627,New Britain School District,58.05868
+628,New Britain School District,84.646037
+629,New Britain School District,44.657096
+630,New Britain School District,56.476176
+631,New Britain School District,55.332563
+632,New Britain School District,56.275967
+633,New Britain School District,40.664375
+634,New Britain School District,48.547505
+635,New Britain School District,49.105181
+636,New Britain School District,63.142449
+637,New Britain School District,61.45944
+638,New Canaan School District,85.930912
+639,New Canaan School District,90.506978
+640,New Canaan School District,79.42796
+641,New Canaan School District,93.729063
+642,New Canaan School District,88.283155
+643,New Fairfield School District,29.038662
+644,New Fairfield School District,74.518417
+645,New Fairfield School District,79.409931
+646,New Fairfield School District,66.834867
+647,New Hartford School District,69.796913
+648,New Hartford School District,93.333333
+649,New Hartford School District,45.438596
+650,New Haven School District,51.416823
+651,New Haven School District,61.217344
+652,New Haven School District,48.016918
+653,New Haven School District,53.124921
+654,New Haven School District,49.209044
+655,New Haven School District,46.482401
+656,New Haven School District,47.700153
+657,New Haven School District,53.186114
+658,New Haven School District,53.513606
+659,New Haven School District,48.490251
+660,New Haven School District,43.676374
+661,New Haven School District,62.974835
+662,New Haven School District,52.663124
+663,New Haven School District,50.219342
+664,New Haven School District,54.718968
+665,New Haven School District,72.583863
+666,New Haven School District,53.030011
+667,New Haven School District,53.761833
+668,New Haven School District,52.55603
+669,New Haven School District,40.083779
+670,New Haven School District,59.045986
+671,New Haven School District,48.58548
+672,New Haven School District,53.661295
+673,New Haven School District,60.236587
+674,New Haven School District,49.977027
+675,New Haven School District,57.255814
+676,New Haven School District,57.393481
+677,New Haven School District,55.884507
+678,New Haven School District,54.418077
+679,New Haven School District,62.607607
+680,New Haven School District,41.07963
+681,New Haven School District,50.558217
+682,New Haven School District,61.64301
+683,New Haven School District,52.939516
+684,New Haven School District,43.534501
+685,New Haven School District,53.624198
+686,New Haven School District,77.58085
+687,Newington School District,71.658902
+688,Newington School District,70.067579
+689,Newington School District,72.089627
+690,Newington School District,63.784963
+691,Newington School District,62.848285
+692,Newington School District,74.882649
+693,Newington School District,75.229525
+694,New London School District,46.531761
+695,New London School District,45.238204
+696,New London School District,50.350979
+697,New London School District,48.155328
+698,New London School District,51.330714
+699,New London School District,49.884828
+700,New London School District,64.70592
+701,New London School District,45.298007
+702,New London School District,67.180103
+703,New Milford School District,48.012196
+704,New Milford School District,68.411902
+705,New Milford School District,41.010456
+706,New Milford School District,65.524184
+707,New Milford School District,56.193412
+708,Newtown School District,82.529364
+709,Newtown School District,85.243422
+710,Newtown School District,81.467779
+711,Newtown School District,80.252809
+712,Newtown School District,68.058306
+713,Newtown School District,72.998238
+714,Newtown School District,78.523937
+715,Norfolk School District,47.649363
+716,North Branford School District,64.710243
+717,North Branford School District,78.424992
+718,North Branford School District,64.651444
+719,North Branford School District,82.372659
+720,North Canaan School District,73.562339
+721,North Haven School District,75.193909
+722,North Haven School District,77.522413
+723,North Haven School District,83.264138
+724,North Haven School District,78.928831
+725,North Haven School District,70.736199
+726,North Haven School District,68.831609
+727,North Stonington School District,69.25131
+728,North Stonington School District,70.260622
+729,Norwalk School District,63.635406
+730,Norwalk School District,63.742625
+731,Norwalk School District,80.033349
+732,Norwalk School District,74.155007
+733,Norwalk School District,71.126272
+734,Norwalk School District,63.134484
+735,Norwalk School District,65.193115
+736,Norwalk School District,64.029505
+737,Norwalk School District,68.19601
+738,Norwalk School District,67.622583
+739,Norwalk School District,59.561719
+740,Norwalk School District,61.545364
+741,Norwalk School District,73.554535
+742,Norwalk School District,58.868748
+743,Norwalk School District,60.319977
+744,Norwalk School District,69.354816
+745,Norwalk School District,68.781717
+746,Norwalk School District,0.0
+747,Norwalk School District,63.040723
+748,Norwalk School District,62.839747
+749,Norwalk School District,70.337908
+750,Norwich School District,56.691673
+751,Norwich School District,47.981032
+752,Norwich School District,57.475829
+753,Norwich School District,53.391215
+754,Norwich School District,43.493657
+755,Norwich School District,68.747359
+756,Norwich School District,62.721771
+757,Norwich School District,55.438446
+758,Norwich School District,52.562613
+759,Old Saybrook School District,70.541996
+760,Old Saybrook School District,72.935696
+761,Old Saybrook School District,75.092948
+762,Orange School District,45.893417
+763,Orange School District,81.472711
+764,Orange School District,71.930447
+765,Orange School District,81.56457
+766,Oxford School District,80.600355
+767,Oxford School District,75.0385
+768,Oxford School District,58.843146
+769,Oxford School District,70.990991
+770,Plainfield School District,66.266989
+771,Plainfield School District,60.960772
+772,Plainfield School District,62.403501
+773,Plainfield School District,77.485619
+774,Plainfield School District,68.349055
+775,Plainville School District,64.301831
+776,Plainville School District,68.973561
+777,Plainville School District,70.667759
+778,Plainville School District,64.716845
+779,Plainville School District,72.847699
+780,Plymouth School District,60.105351
+781,Plymouth School District,67.285083
+782,Plymouth School District,8.148148
+783,Plymouth School District,65.715335
+784,Pomfret School District,73.360551
+785,Portland School District,63.741351
+786,Portland School District,78.013245
+787,Portland School District,78.951722
+788,Portland School District,62.366602
+789,Portland School District,54.546073
+790,Preston School District,73.657088
+791,Preston School District,74.132928
+792,Putnam School District,61.079097
+793,Putnam School District,68.425129
+794,Putnam School District,50.137881
+795,Redding School District,74.104836
+796,Redding School District,72.655763
+797,Ridgefield School District,73.975333
+798,Ridgefield School District,85.887565
+799,Ridgefield School District,74.54228
+800,Ridgefield School District,89.65974
+801,Ridgefield School District,84.638663
+802,Ridgefield School District,85.336578
+803,Ridgefield School District,81.613618
+804,Ridgefield School District,78.050638
+805,Ridgefield School District,90.105934
+806,Rocky Hill School District,72.770071
+807,Rocky Hill School District,77.967225
+808,Rocky Hill School District,81.209714
+809,Rocky Hill School District,80.616128
+810,Rocky Hill School District,92.378485
+811,Salem School District,62.632864
+812,Salisbury School District,72.306982
+813,Scotland School District,63.197616
+814,Seymour School District,71.947915
+815,Seymour School District,74.296513
+816,Seymour School District,71.910285
+817,Seymour School District,68.224368
+818,Sharon School District,71.704705
+819,Shelton School District,76.611048
+820,Shelton School District,69.998658
+821,Shelton School District,60.885764
+822,Shelton School District,76.103627
+823,Shelton School District,70.24495
+824,Shelton School District,69.770404
+825,Shelton School District,71.372588
+826,Shelton School District,79.981473
+827,Sherman School District,67.748732
+828,Simsbury School District,74.056329
+829,Simsbury School District,66.901144
+830,Simsbury School District,74.982192
+831,Simsbury School District,83.826586
+832,Simsbury School District,79.69547
+833,Simsbury School District,76.223764
+834,Simsbury School District,79.533622
+835,Somers School District,72.269657
+836,Somers School District,73.352777
+837,Somers School District,75.800294
+838,Southington School District,72.706812
+839,Southington School District,65.507151
+840,Southington School District,62.287099
+841,Southington School District,72.757047
+842,Southington School District,79.17409
+843,Southington School District,74.894568
+844,Southington School District,80.041315
+845,Southington School District,76.492232
+846,Southington School District,73.576351
+847,Southington School District,78.468312
+848,Southington School District,75.121963
+849,South Windsor School District,73.030271
+850,South Windsor School District,85.977501
+851,South Windsor School District,83.785372
+852,South Windsor School District,76.227665
+853,South Windsor School District,82.540481
+854,South Windsor School District,66.791685
+855,Sprague School District,51.960677
+856,Stafford School District,72.26236
+857,Stafford School District,77.328079
+858,Stafford School District,57.392507
+859,Stafford School District,20.0
+860,Stamford School District,44.956626
+861,Stamford School District,68.011069
+862,Stamford School District,51.349787
+863,Stamford School District,61.419623
+864,Stamford School District,64.663194
+865,Stamford School District,55.776228
+866,Stamford School District,62.62122
+867,Stamford School District,57.704013
+868,Stamford School District,45.074325
+869,Stamford School District,71.596903
+870,Stamford School District,59.017289
+871,Stamford School District,60.693044
+872,Stamford School District,63.668611
+873,Stamford School District,64.202072
+874,Stamford School District,60.791207
+875,Stamford School District,71.436065
+876,Stamford School District,75.219912
+877,Stamford School District,54.720273
+878,Stamford School District,43.659269
+879,Stamford School District,62.41184
+880,Stamford School District,67.407743
+881,Sterling School District,56.423581
+882,Stonington School District,85.575397
+883,Stonington School District,82.681053
+884,Stonington School District,61.74154
+885,Stonington School District,70.772221
+886,Stratford School District,66.073365
+887,Stratford School District,60.366097
+888,Stratford School District,49.333289
+889,Stratford School District,77.278661
+890,Stratford School District,64.743006
+891,Stratford School District,48.641322
+892,Stratford School District,57.589935
+893,Stratford School District,64.029229
+894,Stratford School District,69.259334
+895,Stratford School District,52.123086
+896,Stratford School District,66.665638
+897,Stratford School District,65.532627
+898,Suffield School District,70.519481
+899,Suffield School District,70.151616
+900,Suffield School District,76.02293
+901,Suffield School District,66.482235
+902,Thomaston School District,73.130411
+903,Thomaston School District,71.20444
+904,Thomaston School District,70.453221
+905,Thompson School District,55.601492
+906,Thompson School District,56.604707
+907,Thompson School District,64.960663
+908,Tolland School District,67.034765
+909,Tolland School District,77.339642
+910,Tolland School District,80.398998
+911,Tolland School District,74.673897
+912,Torrington School District,67.99311
+913,Torrington School District,70.754331
+914,Torrington School District,68.406945
+915,Torrington School District,62.556068
+916,Torrington School District,50.770086
+917,Torrington School District,65.74522
+918,Trumbull School District,83.605168
+919,Trumbull School District,88.665639
+920,Trumbull School District,88.999216
+921,Trumbull School District,75.771136
+922,Trumbull School District,83.039783
+923,Trumbull School District,77.07245
+924,Trumbull School District,89.293015
+925,Trumbull School District,91.660609
+926,Trumbull School District,85.750328
+927,Union School District,62.945381
+928,Vernon School District,73.499936
+929,Vernon School District,69.464217
+930,Vernon School District,72.51248
+931,Vernon School District,78.556646
+932,Vernon School District,66.800738
+933,Vernon School District,75.066691
+934,Vernon School District,65.618106
+935,Voluntown School District,68.696587
+936,Wallingford School District,57.565862
+937,Wallingford School District,53.534257
+938,Wallingford School District,45.713129
+939,Wallingford School District,58.231448
+940,Wallingford School District,57.175958
+941,Wallingford School District,67.757604
+942,Wallingford School District,73.740161
+943,Wallingford School District,81.043081
+944,Wallingford School District,15.636364
+945,Wallingford School District,70.967976
+946,Wallingford School District,65.147729
+947,Wallingford School District,68.464678
+948,Waterbury School District,57.102722
+949,Waterbury School District,58.469014
+950,Waterbury School District,59.116736
+951,Waterbury School District,60.170209
+952,Waterbury School District,51.236296
+953,Waterbury School District,53.619392
+954,Waterbury School District,55.974756
+955,Waterbury School District,58.211567
+956,Waterbury School District,46.417466
+957,Waterbury School District,64.211033
+958,Waterbury School District,55.822865
+959,Waterbury School District,71.637231
+960,Waterbury School District,52.789296
+961,Waterbury School District,66.535217
+962,Waterbury School District,51.494968
+963,Waterbury School District,45.033064
+964,Waterbury School District,53.487541
+965,Waterbury School District,48.330488
+966,Waterbury School District,63.543779
+967,Waterbury School District,74.764647
+968,Waterbury School District,53.987396
+969,Waterbury School District,58.255133
+970,Waterbury School District,61.275596
+971,Waterbury School District,73.522053
+972,Waterbury School District,65.195592
+973,Waterbury School District,59.344318
+974,Waterbury School District,49.496802
+975,Waterbury School District,47.785805
+976,Waterbury School District,49.272684
+977,Waterford School District,64.67568
+978,Waterford School District,71.943551
+979,Waterford School District,70.439827
+980,Waterford School District,65.697893
+981,Waterford School District,77.998746
+982,Watertown School District,63.910285
+983,Watertown School District,46.037908
+984,Watertown School District,67.291987
+985,Watertown School District,63.437977
+986,Watertown School District,72.015271
+987,Westbrook School District,72.077476
+988,Westbrook School District,80.118691
+989,Westbrook School District,83.704338
+990,West Hartford School District,77.306788
+991,West Hartford School District,72.003738
+992,West Hartford School District,70.37183
+993,West Hartford School District,74.87277
+994,West Hartford School District,64.695168
+995,West Hartford School District,75.751948
+996,West Hartford School District,65.05094
+997,West Hartford School District,78.370769
+998,West Hartford School District,64.747812
+999,West Hartford School District,74.430064
+1000,West Hartford School District,73.49547
+1001,West Hartford School District,63.020037
+1002,West Hartford School District,67.719003
+1003,West Hartford School District,71.081789
+1004,West Hartford School District,69.30871
+1005,West Hartford School District,64.400019
+1006,West Haven School District,72.343279
+1007,West Haven School District,63.068716
+1008,West Haven School District,86.939028
+1009,West Haven School District,69.141014
+1010,West Haven School District,56.121629
+1011,West Haven School District,63.81463
+1012,West Haven School District,79.632475
+1013,West Haven School District,66.497162
+1014,West Haven School District,63.227634
+1015,Weston School District,57.759433
+1016,Weston School District,96.007845
+1017,Weston School District,83.231066
+1018,Weston School District,77.421079
+1019,Westport School District,67.403778
+1020,Westport School District,85.905535
+1021,Westport School District,72.094192
+1022,Westport School District,78.067126
+1023,Westport School District,79.45604
+1024,Westport School District,77.731634
+1025,Westport School District,82.04667
+1026,Westport School District,86.868627
+1027,Wethersfield School District,74.860001
+1028,Wethersfield School District,72.361566
+1029,Wethersfield School District,69.110446
+1030,Wethersfield School District,71.169941
+1031,Wethersfield School District,62.555992
+1032,Wethersfield School District,60.86327
+1033,Wethersfield School District,71.788424
+1034,Willington School District,61.817442
+1035,Willington School District,66.91645
+1036,Wilton School District,85.420522
+1037,Wilton School District,82.99917
+1038,Wilton School District,67.108261
+1039,Wilton School District,92.512802
+1040,Winchester School District,14.950448
+1041,Winchester School District,58.188619
+1042,Windham School District,63.954741
+1043,Windham School District,59.229636
+1044,Windham School District,64.649882
+1045,Windham School District,62.449148
+1046,Windham School District,52.370151
+1047,Windham School District,51.161642
+1048,Windham School District,50.471717
+1049,Windsor School District,63.771915
+1050,Windsor School District,64.616077
+1051,Windsor School District,16.049383
+1052,Windsor School District,48.984688
+1053,Windsor School District,62.461386
+1054,Windsor School District,67.808043
+1055,Windsor Locks School District,55.861043
+1056,Windsor Locks School District,69.019375
+1057,Windsor Locks School District,69.75127
+1058,Windsor Locks School District,62.272392
+1059,Wolcott School District,79.909015
+1060,Wolcott School District,73.397705
+1061,Wolcott School District,67.353468
+1062,Wolcott School District,77.510074
+1063,Wolcott School District,69.022838
+1064,Woodbridge School District,82.256107
+1065,Woodstock School District,78.52768
+1066,Woodstock School District,72.885087
+1067,Regional School District 01,68.509901
+1068,Regional School District 04,57.720163
+1069,Regional School District 04,75.067046
+1070,Regional School District 05,75.038831
+1071,Regional School District 05,76.287497
+1072,Regional School District 05,82.947115
+1073,Regional School District 06,80.913334
+1074,Regional School District 06,78.450349
+1075,Regional School District 06,72.109214
+1076,Regional School District 06,70.513711
+1077,Regional School District 06,72.380952
+1078,Regional School District 07,81.288139
+1079,Regional School District 07,78.218458
+1080,Regional School District 08,76.982492
+1081,Regional School District 08,62.348435
+1082,Regional School District 09,85.722174
+1083,Regional School District 10,75.90533
+1084,Regional School District 10,81.810163
+1085,Regional School District 10,77.824934
+1086,Regional School District 10,76.992927
+1087,Regional School District 11,64.500593
+1088,Regional School District 12,92.108108
+1089,Regional School District 12,75.086977
+1090,Regional School District 12,71.180318
+1091,Regional School District 12,82.33173
+1092,Regional School District 13,77.571505
+1093,Regional School District 13,69.297217
+1094,Regional School District 13,63.753501
+1095,Regional School District 13,80.773123
+1096,Regional School District 13,76.746022
+1097,Regional School District 14,75.124609
+1098,Regional School District 14,78.121917
+1099,Regional School District 14,77.310546
+1100,Regional School District 14,70.323441
+1101,Regional School District 15,79.069367
+1102,Regional School District 15,80.143511
+1103,Regional School District 15,63.044894
+1104,Regional School District 15,82.594095
+1105,Regional School District 15,78.301161
+1106,Regional School District 15,78.682108
+1107,Regional School District 15,64.991257
+1108,Regional School District 16,79.761575
+1109,Regional School District 16,72.885235
+1110,Regional School District 16,77.6548
+1111,Regional School District 16,81.088239
+1112,Regional School District 17,90.684373
+1113,Regional School District 17,82.539063
+1114,Regional School District 17,80.544403
+1115,Regional School District 17,74.120352
+1116,Regional School District 17,81.441077
+1117,Regional School District 18,83.890064
+1118,Regional School District 18,91.499727
+1119,Regional School District 18,76.271898
+1120,Regional School District 18,69.967736
+1121,Regional School District 19,76.527481
+1122,Goodwin University Educational Services (GUES),61.267069
+1123,Goodwin University Educational Services (GUES),44.643162
+1124,Capitol Region Education Council,58.987891
+1125,Capitol Region Education Council,58.467809
+1126,Capitol Region Education Council,60.485452
+1127,Capitol Region Education Council,50.160907
+1128,Capitol Region Education Council,59.375813
+1129,Capitol Region Education Council,55.806464
+1130,Capitol Region Education Council,61.860401
+1131,Capitol Region Education Council,49.392249
+1132,Capitol Region Education Council,63.578366
+1133,Capitol Region Education Council,56.911265
+1134,Capitol Region Education Council,61.469603
+1135,Capitol Region Education Council,57.844351
+1136,Capitol Region Education Council,52.289952
+1137,Capitol Region Education Council,59.810549
+1138,Capitol Region Education Council,59.471256
+1139,Cooperative Educational Services,63.946969
+1140,Area Cooperative Educational Services,57.611121
+1141,Area Cooperative Educational Services,0.0
+1142,Area Cooperative Educational Services,47.769562
+1143,Learn,82.353514
+1144,Learn,58.753367
+1145,Learn,0.0
+1146,Learn,77.467642
+1147,Eastern Connecticut Regional Educational Service Center (EASTCONN),60.452939
+1148,Eastern Connecticut Regional Educational Service Center (EASTCONN),61.609635
+1149,Jumoke Academy District,50.320809
+1150,Odyssey Community School District,72.696562
+1151,Integrated Day Charter School District,67.67302
+1152,Interdistrict School for Arts and Comm District,65.516825
+1153,Common Ground High School District,58.735848
+1154,The Bridge Academy District,63.35492
+1155,Side By Side Charter School District,72.43936
+1156,Explorations District,50.247651
+1157,Amistad Academy District,65.402697
+1158,New Beginnings Inc Family Academy District,48.413033
+1159,Park City Prep Charter School District,71.017597
+1160,Achievement First Bridgeport Academy District,66.776137
+1161,Highville Charter School District,47.776621
+1162,Achievement First Hartford Academy District,56.391478
+1163,Elm City College Preparatory School District,63.208996
+1164,Brass City Charter School District,57.453132
+1165,Elm City Montessori School District,62.757269
+1166,Great Oaks Charter School District,54.45238
+1167,Booker T. Washington Academy District,59.830702
+1168,Stamford Charter School for Excellence District,76.175198
+1169,Capital Preparatory Harbor School District,66.103758
+1170,Unified School District #1,0.0
+1171,Unified School District #1,0.0
+1172,Unified School District #1,0.0
+1173,Unified School District #1,0.0
+1174,Unified School District #1,0.0
+1175,Unified School District #1,0.0
+1176,Unified School District #1,33.083532
+1177,Unified School District #1,0.0
+1178,Unified School District #1,0.0
+1179,Unified School District #2,100.0
+1180,Unified School District #2,33.333333
+1181,Connecticut Technical Education and Career System,53.681297
+1182,Connecticut Technical Education and Career System,59.033398
+1183,Connecticut Technical Education and Career System,59.874699
+1184,Connecticut Technical Education and Career System,55.723847
+1185,Connecticut Technical Education and Career System,64.31752
+1186,Connecticut Technical Education and Career System,63.062316
+1187,Connecticut Technical Education and Career System,62.983946
+1188,Connecticut Technical Education and Career System,62.474019
+1189,Connecticut Technical Education and Career System,70.314778
+1190,Connecticut Technical Education and Career System,55.737542
+1191,Connecticut Technical Education and Career System,56.865421
+1192,Connecticut Technical Education and Career System,68.523011
+1193,Connecticut Technical Education and Career System,62.942684
+1194,Connecticut Technical Education and Career System,58.142166
+1195,Connecticut Technical Education and Career System,60.379248
+1196,Connecticut Technical Education and Career System,71.69995
+1197,Connecticut Technical Education and Career System,66.280067
+1198,Norwich Free Academy District,63.271023
+1199,The Gilbert School District,61.324493
+1200,The Woodstock Academy District,72.663022
+1201,State of Connecticut,69.3

@@ -5,6 +5,7 @@ J. Savage Project 1
 In this project I chose to look at various data sets centered around student attendance data. I wanted to know if different demographics affected student attendance. I used the following data sets:
         - District attendance rates broken down by demographic group, Source: https://catalog.data.gov/dataset/school-attendance-by-student-group-and-district-2021-2022
         - District address and location information by zip code Source: https://www2.ed.gov/programs/reapsrsa/eligible12/ct.xls
+        - District API score broken down by district, Source: https://public-edsight.ct.gov/Overview/Next-Generation-Accountability-Dashboard/Next-Generation-Accountability-Results?language=en_US
 Through reducing and merging data frames, running for loops, and using various components of matplotlib and Geoapify, I was able to create different graphs and maps to answer all of my questions from my proposal and more. Here is my analysis broken down by proposal question:
 
 1.) Is there a correlation between the percentage of students receiving free or reduced lunch in a district with the overall district attendance rate?
@@ -19,6 +20,8 @@ Only 8% of the students in Connecticut are English Learners. We can see from the
 When looking at the scatter plot, we can see most of the districts have less than 5000 students. The Pearson R value is -0.22 which shows no real correlation between district size and attendance rate. Most of the larger districts are clustered around the major cities in Connecticut. This makes sense as cities are often more populated than rural areas.
 6.) Is there a trend in the change in attendance rates over the years?
 From the 2019-2020 school year to the 2021-2022 school year, there has been a lot of change in the world. As we worked through, lived through, and adapted to a new way of living, attendance rates at schools dropped. From the 2019-2020 school year to the 2020-2021 school year, the overall attendance rate dropped about 1.5%. The 2020-2021 school year was the first full school year during the pandemic where many students were either fully virtual or on a hybrid model. There were still many safety measures in place, but people were still afraid of the virus. That being said, many parents needed to work from home and as such needed "childcare", so they sent their kids back to school. Hand sanitizer was everywhere, schools were deep cleaned, and masks were mandatory. From the 2020-2021 school year to the 2021-2022 school year, attendance rates dropped over 1.5%. The 2021-2022 school year was the first year back to "normal" after the pandemic. Safety guidelines were relaxed and people became sick with a variety of illnesses more often. This caused lower attendance rates from the year before because more kids were getting sick and had to stay home from school. 
+7.) Extension: Is there a correlation between attendance rate and API score?
+When looking at the Pearson R value and overall distribution of the scatter plot, we can see that there is a strong correlation between the attendance rate and the API score of a school. In general, the higher attendance rate, the higher API score. Students who attend school more learn more and therefore perfom higher on state tests, a key factor when calculating API scores.
 
 
 Resources:
@@ -42,3 +45,4 @@ https://www.geeksforgeeks.org/how-to-add-one-row-in-an-existing-pandas-dataframe
 https://stackoverflow.com/questions/14661701/how-to-drop-a-list-of-rows-from-pandas-dataframe
 https://stackoverflow.com/questions/31357611/format-y-axis-as-percent
 https://stackoverflow.com/questions/43136137/drop-a-specific-row-in-pandas
+https://stackoverflow.com/questions/13250046/how-to-keep-leading-zeros-in-a-column-when-reading-csv-with-pandas
